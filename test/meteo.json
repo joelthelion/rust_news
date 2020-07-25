@@ -1,0 +1,57 @@
+{
+  "idLieu" : "012620",
+  "echeance" : "202007141225",
+  "lastUpdate" : "12h15",
+  "isAvailable" : true,
+  "hasData" : true,
+  "niveauPluieText" : [ "De12h25 à 13h25 : Pas de précipitations" ],
+  "dataCadran" : [ {
+    "niveauPluieText" : "Pas de précipitations",
+    "niveauPluie" : 1,
+    "color" : "ffffff"
+  }, {
+    "niveauPluieText" : "Pas de précipitations",
+    "niveauPluie" : 1,
+    "color" : "ffffff"
+  }, {
+    "niveauPluieText" : "Pas de précipitations",
+    "niveauPluie" : 1,
+    "color" : "ffffff"
+  }, {
+    "niveauPluieText" : "Pas de précipitations",
+    "niveauPluie" : 1,
+    "color" : "ffffff"
+  }, {
+    "niveauPluieText" : "Pas de précipitations",
+    "niveauPluie" : 1,
+    "color" : "ffffff"
+  }, {
+    "niveauPluieText" : "Pas de précipitations",
+    "niveauPluie" : 1,
+    "color" : "ffffff"
+  }, {
+    "niveauPluieText" : "Pas de précipitations",
+    "niveauPluie" : 1,
+    "color" : "ffffff"
+  }, {
+    "niveauPluieText" : "Pas de précipitations",
+    "niveauPluie" : 1,
+    "color" : "ffffff"
+  }, {
+    "niveauPluieText" : "Pas de précipitations",
+    "niveauPluie" : 1,
+    "color" : "ffffff"
+  }, {
+    "niveauPluieText" : "Pas de précipitations",
+    "niveauPluie" : 1,
+    "color" : "ffffff"
+  }, {
+    "niveauPluieText" : "Pas de précipitations",
+    "niveauPluie" : 1,
+    "color" : "ffffff"
+  }, {
+    "niveauPluieText" : "Pas de précipitations",
+    "niveauPluie" : 1,
+    "color" : "ffffff"
+  } ]
+}
