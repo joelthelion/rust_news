@@ -1,5 +1,5 @@
 [package]
-name = "rust_playground"
+name = "rust_news"
 version = "0.1.0"
 authors = ["Joël Schaerer <joel.schaerer@laposte.net>"]
 edition = "2018"

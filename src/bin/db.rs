@@ -18,7 +18,7 @@ pub fn establish_connection() -> SqliteConnection {
         .expect(&format!("Error connecting to {}", database_url))
 }
 
-use rust_playground::schema::posts;
+use rust_news::schema::posts;
 
 #[derive(Queryable, Debug)]
 struct Post {
@@ -34,7 +34,7 @@ struct IPost {
 
 fn main() {
     let con = establish_connection();
-    use rust_playground::schema::posts::dsl::*;
+    use rust_news::schema::posts::dsl::*;
     let scoop = IPost{title:"Trump steps down!!!".to_string()};
     diesel::insert_into(posts)
         .values(&scoop)
